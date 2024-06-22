@@ -10,6 +10,7 @@
 | --- | --- |
 
 ### 🧬 Code
+https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/ExVideo
 
 ### 📄 Paper
 
