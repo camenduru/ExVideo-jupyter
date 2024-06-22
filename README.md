@@ -13,6 +13,7 @@
 https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/ExVideo
 
 ### 📄 Paper
+https://arxiv.org/abs/2308.03463
 
 ### 🌐 Page
 
