@@ -14,7 +14,8 @@
 https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/ExVideo
 
 ### 📄 Paper
-https://arxiv.org/abs/2308.03463
+https://arxiv.org/abs/2406.14130 <br />
+https://arxiv.org/abs/2308.03463 <br />
 
 ### 🌐 Page
 
