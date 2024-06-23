@@ -24,6 +24,8 @@ https://arxiv.org/abs/2308.03463
 
 https://github.com/camenduru/ExVideo-jupyter/assets/54370274/d5e003dd-6656-44e7-be80-00eafbc0ae27
 
+ExVideo
+
 https://github.com/camenduru/ExVideo-jupyter/assets/54370274/db4e16b1-fdbb-43a7-841b-96d58e9a1a1b
 
 ### 🏢 Sponsor
