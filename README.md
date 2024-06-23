@@ -22,10 +22,9 @@ https://arxiv.org/abs/2308.03463
 
 ![image (9)](https://github.com/camenduru/ExVideo-jupyter/assets/54370274/83188d6b-09c8-4845-ae40-50201bdfefc7)
 
-
 https://github.com/camenduru/ExVideo-jupyter/assets/54370274/d5e003dd-6656-44e7-be80-00eafbc0ae27
 
-
+https://github.com/camenduru/ExVideo-jupyter/assets/54370274/db4e16b1-fdbb-43a7-841b-96d58e9a1a1b
 
 ### 🏢 Sponsor
 https://runpod.io
