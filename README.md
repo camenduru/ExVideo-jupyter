@@ -28,5 +28,7 @@ ExVideo
 
 https://github.com/camenduru/ExVideo-jupyter/assets/54370274/db4e16b1-fdbb-43a7-841b-96d58e9a1a1b
 
+![Screenshot 2024-06-23 100809](https://github.com/camenduru/ExVideo-jupyter/assets/54370274/6486652c-3c90-4497-9a8b-a565d59ba5f1)
+
 ### 🏢 Sponsor
 https://runpod.io
